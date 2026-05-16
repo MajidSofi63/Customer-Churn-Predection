@@ -11,3 +11,5 @@ Number of Rows: 7043 (Customers)
 Number of Columns: 21 (Features)
 Missing Attribute Values: Yes
 Class Distribution: (churn value Yes is interpreted as "customer churn")
+
+https://customer-churn-predection-hvnt7rjnrqqpsedwpwbt7m.streamlit.app/
